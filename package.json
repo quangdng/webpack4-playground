@@ -6,6 +6,9 @@
   "repository": "https://github.com/quangdng/webpack4-playground.git",
   "author": "Justin Nguyen <quang.dn@icloud.com>",
   "license": "MIT",
+  "scripts": {
+    "webpack": "webpack"
+  },
   "devDependencies": {
     "@babel/core": "^7.0.0-beta.46",
     "@babel/preset-env": "^7.0.0-beta.46",
